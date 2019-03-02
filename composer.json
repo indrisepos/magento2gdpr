@@ -8,7 +8,6 @@
             "email": "dev@adfab.fr"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "fzaninotto/faker": "*",
         "magento/module-customer": "*",
